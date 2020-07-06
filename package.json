@@ -1,18 +1,18 @@
 {
-  "name": "pomelo-node-client-websocket",
+  "name": "whos-pomelo-node-client-websocket",
   "version": "0.1.0",
   "description": "pomelo client for nodejs using websocket",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lessu/pomelo-node-client-websocket"
+    "url": "https://github.com/whosphp/pomelo-node-client-websocket"
   },
   "keywords": [
     "pomelo",
     "client",
     "websocket"
   ],
-  "author": "lessu",
+  "author": "whosphp",
   "license": "MIT",
   "dependencies": {
     "ws": "^0.4.25"
